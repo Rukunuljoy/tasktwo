@@ -1,5 +1,5 @@
 // src/AlphabetGrid.js
-import React, { useState } from 'react';
+import { useState } from 'react';
 import './AlphabetGrid.css';
 
 const AlphabetGrid = () => {
