@@ -1,4 +1,3 @@
-// src/AlphabetGrid.js
 import { useState } from 'react';
 import './AlphabetGrid.css';
 
